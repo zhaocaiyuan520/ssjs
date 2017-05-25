@@ -1,0 +1,4 @@
+redis.information = MasterSlave,RtcsCdMaster,10.253.129.251:26379;10.31.23.73:26379
+#redis.information = Single,10.253.129.251:6380
+#redis.information = Single,10.31.23.74:9001
+#redis.information = MasterSlave,RtcsCdMaster,10.253.129.235:26379;10.253.129.236:26379
